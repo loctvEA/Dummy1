@@ -14,4 +14,4 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: Dummy1
+      appname: shrouded-peak-89203
